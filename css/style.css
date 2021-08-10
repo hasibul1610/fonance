@@ -100,3 +100,25 @@ body{
     z-index: 1;
     margin-top: -45px;
 }
+
+.footer-top{
+    background-color: #470159;
+    margin-top: 50px;
+}
+
+.footer-link a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+}
+
+.footer-subscribe-btn{
+    width: 300px;
+    fill: none;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid grey;
+    font-size: 18px;
+    margin-bottom: 16px;
+    margin: 15px 0;
+}
